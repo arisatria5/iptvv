@@ -2,3 +2,11 @@
 https://cdn11jtedge.useetv.com/joss/14/balitv/chunklist_w1339919553_b684100_sleng.m3u8?enc=ZjyH2Q33nbhLY1p6nKAfjg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059452
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05X1kMH3/gtv.png" group-title="Lokal", 2
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05X1kMH3/gtv.png" group-title="Lokal", 3
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1614063565~acl=/hls-p/ingest_778_*/*~hmac=004303e7e2844e006a512f5e2db2db2e43e561cad35190aa5ff90396f98c2437/hls-p/ingest_778_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7nLzQ86/mnc.jpg" group-title="Lokal", 4
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1614063482~acl=/hls-p/ingest_870_*/*~hmac=c64a7b6d1f6ca68e1df84ff34264cb8a26e756e43dc43f1f067838b06843bd2e/hls-p/ingest_870_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7nLzQ86/mnc.jpg" group-title="Lokal", 5
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
