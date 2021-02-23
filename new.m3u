@@ -1,12 +1,12 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFDMFgSD/bali.jpg" group-title="Lokal", 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFDMFgSD/bali.jpg" group-title="Lokal MKC", BALI TV
 https://cdn11jtedge.useetv.com/joss/14/balitv/chunklist_w1339919553_b684100_sleng.m3u8?enc=ZjyH2Q33nbhLY1p6nKAfjg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059452
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05X1kMH3/gtv.png" group-title="Lokal", 2
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05X1kMH3/gtv.png" group-title="Lokal", 3
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1614063565~acl=/hls-p/ingest_778_*/*~hmac=004303e7e2844e006a512f5e2db2db2e43e561cad35190aa5ff90396f98c2437/hls-p/ingest_778_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7nLzQ86/mnc.jpg" group-title="Lokal", 4
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1614063482~acl=/hls-p/ingest_870_*/*~hmac=c64a7b6d1f6ca68e1df84ff34264cb8a26e756e43dc43f1f067838b06843bd2e/hls-p/ingest_870_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7nLzQ86/mnc.jpg" group-title="Lokal", 5
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvwm7cSn/indosiar.png" group-title="Lokal MKC", INDOSIAR
+https://cdn11jtedge.useetv.com/joss/15/indosiar/chunklist_w369760537_b684100_sleng.m3u8?enc=r-ekuNWZpsxoEaZJihR-YA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059410
+aw
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFDMFgSD/bali.jpg" group-title="Lokal KSA", BALI TV
+https://cdn10jtedge.useetv.com/joss/14/balitv/chunklist_w1339919553_b684100_sleng_kamiselaluada.m3u8?enc=6H3Eh2jPACX5sd72zh31NQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1614052804
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvwm7cSn/indosiar.png" group-title="Lokal KSA", INDOSIAR
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/uefavidio.png" group-title="Lokal KSA",SCTV SPORT
+https://etslive-2-vidio-com.akamaized.net/exp=1614056437~acl=/hls-p/ingest_10005_*/*~hmac=cde7c28a1d40a9ecedfd6ff18809dd1e223bc88173d19b402a1a15d65ae0677e/hls-p/ingest_10005_720p/index.m3u8
